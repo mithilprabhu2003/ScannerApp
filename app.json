@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "qrscannerapp",
+    "slug": "qrscannerapp",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.mithil_prabhu.qrscannerapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "33691ef4-3979-4c27-a2c1-7823fae324aa"
+      }
+    },
+    "build": {
+      "preview": {
+        "android": {
+          "buildType": "apk"
+        }
+      }
+    }
+  }
+}
